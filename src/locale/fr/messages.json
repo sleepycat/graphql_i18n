@@ -1,0 +1,38 @@
+{
+  "An example date/time object.": {
+    "translation": "Un exemple d'objet date/heure.",
+    "origin": [
+      [
+        "src/index.js",
+        16
+      ]
+    ]
+  },
+  "The current date in DD/MM/YYYY format.": {
+    "translation": "La date actuelle au format JJ/MM/AAAA.",
+    "origin": [
+      [
+        "src/index.js",
+        19
+      ]
+    ]
+  },
+  "The current time in HH:MM:SS AM/PM format.": {
+    "translation": "L'heure actuelle au format HH:MM:SS AM/PM.",
+    "origin": [
+      [
+        "src/index.js",
+        23
+      ]
+    ]
+  },
+  "Returns current time and date values.": {
+    "translation": "Renvoie les valeurs actuelles de date et d'heure.",
+    "origin": [
+      [
+        "src/index.js",
+        33
+      ]
+    ]
+  }
+}
