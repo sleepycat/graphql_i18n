@@ -2,7 +2,7 @@
   "name": "lingui_graphql",
   "version": "1.0.0",
   "description": "A demo of doing i18n for GraphQL",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Mike Williamson <mike@korora.ca>",
   "license": "MIT",
   "scripts": {
